@@ -1,9 +1,0 @@
-Name: Jiang Hongda
-UID: N11330053
-Email: hj690@nyu.edu
-Phone: 917-868-0443
-
-How to run:
-1. enter the source file;
-2. use makefile command ":> make"
-3. the executable file "mmu" will be gernerated.
